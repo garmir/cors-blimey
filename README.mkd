@@ -3,4 +3,4 @@
 CORS Scanner.
 
 # TODO
-* `i have also seen things like they don't allow target.com.evil.com or anything after the first . but if you put target.anothertld it works. Then you just purchase that domain and you are good to go`
+* i have also seen things like they don't allow target.com.evil.com or anything after the first . but if you put target.anothertld it works. Then you just purchase that domain and you are good to go`
